@@ -18,7 +18,7 @@ Creating Design for All (focusing on user with intellectual disabilities)
  - Diploma de Formación en Inclusión Social y Laboral de Jóvenes con Discapacidad Intelectual de la Universidad de Granada 
  (https://canal.ugr.es/noticia/17-jovenes-con-discapacidad-intelectual-finalizan-su-formacion-en-la-ugr/) 
 
-[Radio PorParaDesde](http://utopolis.ugr.es/porparadesde/) - [Canal PorParadesde](https://www.youtube.com/channel/UCQchZ-MTxcCF3i7qUAnDdAw/videos?disable_polymer=1)
+   [Radio PorParaDesde](http://utopolis.ugr.es/porparadesde/) - [Canal PorParadesde](https://www.youtube.com/channel/UCQchZ-MTxcCF3i7qUAnDdAw/videos?disable_polymer=1)
 
 
 
