@@ -14,6 +14,8 @@
 
 - [Museo Virtual inversivo & SmartCity (2016-18)](http://www.emadridnet.org/index.php/es/28-eventos-y-seminarios/535-museogrades-el-museo-virtual-inmersivo-e-inclusivo-aprendiendo-e-interpretando-una-smart-city)
 
+    ![Museogrades](https://github.com/mgea/inclusiveDesign/blob/master/logoMuseogrades.png)
+
 - [ConectaVRDigital, Proyecto Vodafone de Transformación Digital, 2019](https://www.slideshare.net/mgea/conectavrdigital-conectados-por-la-accesibilidad)
 
   * Página Web: http://utopolis.ugr.es/conectavrdigital
