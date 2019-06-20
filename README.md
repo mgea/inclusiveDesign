@@ -13,6 +13,8 @@ Creating Design for All (focusing on user with intellectual disabilities)
 - [Museo Virtual inversivo & SmartCity (2016-18)](http://www.emadridnet.org/index.php/es/28-eventos-y-seminarios/535-museogrades-el-museo-virtual-inmersivo-e-inclusivo-aprendiendo-e-interpretando-una-smart-city)
 
 - [ConectaVRDigital, Proyecto Vodafone de Transformación Digital, 2019](https://www.slideshare.net/mgea/conectavrdigital-conectados-por-la-accesibilidad)
+  Página Web: http://utopolis.ugr.es/conectavrdigital
+  Canal Youtube: https://www.youtube.com/playlist?list=PLp7d5SexN3YBfF2yYxLC6emCsvRBuRG0y 
 
   
  - Diploma de Formación en Inclusión Social y Laboral de Jóvenes con Discapacidad Intelectual de la Universidad de Granada 
