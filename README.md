@@ -15,7 +15,8 @@ Creating Design for All (focusing on user with intellectual disabilities)
 - [ConectaVRDigital, Proyecto Vodafone de Transformación Digital, 2019](https://www.slideshare.net/mgea/conectavrdigital-conectados-por-la-accesibilidad)
   Página Web: http://utopolis.ugr.es/conectavrdigital
   Canal Youtube: https://www.youtube.com/playlist?list=PLp7d5SexN3YBfF2yYxLC6emCsvRBuRG0y 
-
+  
+  ![#conecta2Xaccesibilidad](https://github.com/mgea/inclusiveDesign/blob/master/LogoConectaXaccesibilidadFV.png)
   
  - Diploma de Formación en Inclusión Social y Laboral de Jóvenes con Discapacidad Intelectual de la Universidad de Granada 
  (https://canal.ugr.es/noticia/17-jovenes-con-discapacidad-intelectual-finalizan-su-formacion-en-la-ugr/) 
